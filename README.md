@@ -2,7 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Android studio Fragment Documnetation: to understand how to send arguments to fragments and how to retreive them in the fragment 
 
 ## Verbal Collaboration
 
